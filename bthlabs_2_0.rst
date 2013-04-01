@@ -29,3 +29,4 @@ That's pretty much it. Thanks for stopping by :).
 
 .. meta::
     :title: BTHLabs 2.0
+    :published_at: 2013-04-01 13:00:00
