@@ -16,7 +16,7 @@ Have fun!
 
 .. meta::
     :title: Flask-HTAuth
-    :tags: 
+    :tags: flask,python
     :published_at: 2012-09-14 21:31:00
     :status: published
     :rss_guid: http://www.bthlabs.pl/flask-htauth
