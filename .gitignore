@@ -1,0 +1,6 @@
+.DS_Store
+*.bak
+*.swp
+about.rst
+content_license.rst
+credits_and_attributions.rst
