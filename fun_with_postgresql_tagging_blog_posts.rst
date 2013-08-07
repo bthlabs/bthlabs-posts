@@ -130,7 +130,11 @@ work until there's a small number of entries. In the tests I performed while
 playing around I found that 20+ items in the tags array caused a major
 performance hit.
 
+Discuss this post on `Reddit`_.
+
 .. _this gist: https://gist.github.com/tomekwojcik/9015b7213179cae06b7c#file-readme-rst
+
+.. _Reddit: http://www.reddit.com/r/programming/comments/1gyv2y/fun_with_postgresql_tagging_blog_posts/
 
 .. meta::
     :title: Fun with PostgreSQL: Tagging blog posts

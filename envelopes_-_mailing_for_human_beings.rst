@@ -41,6 +41,10 @@ Learn more from the `docs <http://tomekwojcik.github.io/envelopes/>`_. Get the c
 
 Have fun!
 
+Discuss this post on `Reddit`_.
+
+.. _Reddit: http://www.reddit.com/r/Python/comments/1jvzk1/envelopes_mailing_for_human_beings/
+
 .. meta::
     :title: Envelopes - Mailing for human beings
     :tags: python
